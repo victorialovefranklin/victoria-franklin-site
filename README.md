@@ -22,15 +22,17 @@ Victoria L. Franklin is a doctoral researcher and data scientist specializing in
 
 ## Highlights
 
+- **Current and recent roles:** NREIP Fall Engagement Participant, U.S. Naval Research Laboratory (Oct–Dec 2026) · Data Analytics & Technology Fellow and Project Lead, Metro Nashville Register of Deeds (Sep–Nov 2026) · Post-PhD Candidacy Technical Intern, Nuclear Cybersecurity, Idaho National Laboratory (Jul–Sep 2026) · CASPER Scholar & DOE Research Scholar, Savannah River National Laboratory (Jul 2025–Jan 2026)
 - **5 federal laboratories:** Idaho National Laboratory, Savannah River National Laboratory, Oak Ridge National Laboratory, U.S. Naval Research Laboratory, U.S. Air Force School of Aerospace Medicine
-- **Research Credentials:** Three Peer-Reviewed Conference Papers Accepted for Publication (2026): SEGDA and BioGrid Sentinel AI (EAI SmartGIFT 2026, Springer LNICST) · Decoding Tennessee Wastewater Surveillance (ICEPTP 2027)
+- **Research Credentials:** Three Peer-Reviewed Conference Papers Accepted for Presentation and Publication: SEGDA and BioGrid Sentinel AI (10th EAI SmartGIFT 2026, Tempe, AZ, Springer LNICST) · Decoding Tennessee Wastewater Surveillance (12th ICEPTP 2027, London, UK, CSEE 2027 Congress proceedings)
+- **Submitted, pending selection:** three abstracts to APHL ID Lab Con 2027 (Atlanta, Mar 15–18, 2027) · book chapter proposal, Taylor & Francis
 - **Research:** Nuclear Sentinel AI ([repository](https://github.com/victorialovefranklin/Nuclear-Sentinel/)), SEGDA / GridAI™, BioGrid Sentinel AI
 - **Speaking:** International Training Course on Protecting Computer-Based Systems in Nuclear Security Regimes, Idaho National Laboratory (2026) · Meharry Ph.D. Spotlight, Data Science Nashville (2026) · HBCU National Spotlight panel, Environmental Justice & Health Disparities Symposium (2025) · 106th AMS Annual Meeting (2026)
 - **Mentorship:** MS-CC Undergraduate Summer Research Internship co-mentor and curriculum developer (2025, 2026) · GIS Cyber Threat Mapping & Spatial Analytics workshop (2026)
-- **Affiliations:** HBCU Environmental Justice Technical Collaborative · GDG On Campus Organizer · SACS IEEE Student Branch, Marketing & Communications · IEEE and AMS Student Member · SHIFT Scholar
+- **Affiliations:** HBCU Environmental Justice Technical Collaborative · GDG On Campus Organizer · SACS IEEE Student Branch, Marketing & Communications Officer · IEEE and AMS Student Member (2025–Present) · SHIFT Scholar (2025–2026)
 - **Live research platform:** [NWGS Grid™](https://nwgsgrid.com/) for national wastewater genomic surveillance and public-health decision support
 - **Government technology:** Metro Nashville Register of Deeds public data portal and website
-- **Recognition:** Featured, Wiley’s Inspiring Black Scientists (2026) · 1st Place Research Award, Meharry (2025) · Governor-appointed, Tennessee Committee for Clinical Perfusionists
+- **Recognition:** Featured, Wiley’s Inspiring Black Scientists (2026) · Featured, WastewaterSCAN Q&A (2026) · Women’s History Month Honoree, HBCU Environmental Justice Technical Collaborative (2026) · 1st Place Research Award, Meharry (2025) · Governor-appointed, Tennessee Committee for Clinical Perfusionists
 - **Education:** Ph.D. in Data Science (Nuclear Cybersecurity concentration), Meharry Medical College, expected 2027 · Graduate Certificate, Public Administration & Executive Leadership, TSU (2026) · PSM, Applied Geospatial Information Systems, TSU (2018) · B.S., Urban Studies, TSU (2014) · A.A.S., Health Information Technology, Daymar Institute (2005)
 
 ## Contact
