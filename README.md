@@ -16,7 +16,7 @@ Victoria L. Franklin is a doctoral researcher and data scientist specializing in
 
 | Page | What's on it |
 | --- | --- |
-| [Home](https://victorialovefranklin.github.io/victoria-franklin-site/) | Introduction, highlights, education, recognition and awards, mentorship, public service, speaking, affiliations, research expertise, federal labs, government, academic research, projects, publications, contact |
+| [Home](https://victorialovefranklin.github.io/victoria-franklin-site/) | Introduction, highlights, education, recognition and awards, mentorship, speaking, affiliations, research expertise, federal labs, government and public service, academic research, projects, publications, contact |
 | [Full CV](https://victorialovefranklin.github.io/victoria-franklin-site/experience.html) | Full record: roles, research approach, publications, teaching, affiliations, education, honors, skills |
 | [Full CV (PDF)](https://victorialovefranklin.github.io/victoria-franklin-site/docs/Victoria-Love-Franklin-CV.pdf) | Downloadable PDF of the full CV |
 
