@@ -374,6 +374,49 @@
   .eyebrow .seg{white-space:nowrap!important}
   header nav .links{margin-left:32px}
   header nav .brand{flex:none}
+
+  /* ===== Clean white theme ===== */
+  :root{--gold-ink:#8f6a26}
+  body{background:#fff}
+  header{background:rgba(255,255,255,.97)!important;color:var(--navy)!important;border-bottom:1px solid var(--line);box-shadow:0 2px 12px rgba(20,33,58,.05)}
+  header .brand{color:var(--navy)!important}
+  header .brand span{color:var(--gold-ink)!important}
+  .links a{color:var(--navy)}
+  .links a:hover,.links a[aria-current]{color:var(--wine)!important}
+  .links .nav-cta,.links .nav-cta:hover{color:var(--navy)!important}
+  .menu-btn{color:var(--navy)!important}
+  .links{background:#fff!important;box-shadow:none}
+  @media (max-width:960px){.links{box-shadow:0 18px 30px rgba(20,33,58,.12)!important}.links a{border-bottom-color:var(--line)!important}}
+  footer{background:#fff!important;color:var(--body)!important;border-top:1px solid var(--line)}
+  footer .brand{color:var(--navy)!important}
+  footer .brand span{color:var(--gold-ink)!important}
+  footer a{color:var(--navy)}
+  .btn-ghost{border-color:var(--navy)!important;color:var(--navy)!important;background:transparent}
+  .btn-ghost:hover{background:var(--navy)!important;color:#fff!important}
+  .eyebrow{color:var(--gold-ink)!important}
+  .page-hero{background:#fff!important;color:var(--ink)!important;border-bottom:1px solid var(--line)}
+  .page-hero h1{color:var(--navy)!important}
+  .page-hero h1 em{color:var(--gold-ink)!important}
+  .page-hero .lede,.page-hero p{color:var(--body)!important}
+  .page-hero::before{border-color:rgba(196,154,74,.35)!important}
+  main > section:not(.banner-hero),section.tint,.tint{background:#fff!important}
+  .feature{background:#fff!important;color:var(--body)!important;border:1px solid var(--line);border-top:3px solid var(--navy)}
+  .feature .label{color:var(--gold-ink)!important}
+  .feature h3{color:var(--navy)!important}
+  .feature h3 em{color:var(--gold-ink)!important}
+  .feature p{color:var(--body)!important}
+  .feature p strong{color:var(--navy)!important}
+  #contact{background:#fff!important;color:var(--body)!important;border-top:1px solid var(--line)}
+  #contact h2,#contact h3{color:var(--navy)!important}
+  #contact a:not(.btn){color:var(--navy)!important}
+  #contact p{color:var(--body)!important}
+  .page-hero div > strong{color:var(--navy)!important}
+  .page-hero div > span,.page-hero .fl{color:var(--body)!important}
+  .page-hero abbr{color:var(--muted)!important}
+  .hero-dl{margin-top:24px;position:relative}
+  @media print{.hero-dl{display:none}}
+  .btn-gold{background:var(--gold);color:var(--navy);border-radius:999px;text-decoration:none;border:0}
+  .btn-gold:hover{filter:brightness(1.05)}
 </style>
 </head>
 <body>
@@ -389,7 +432,6 @@
       <li><a href="index.html#publications">Publications</a></li>
       <li><a href="experience.html" aria-current="page">Full CV</a></li>
       <li><a href="index.html#contact">Contact</a></li>
-      <li><a class="nav-cta" href="work-with-me.html">Work With Me</a></li>
     </ul>
   </nav>
 </header>
@@ -397,11 +439,12 @@
 <main>
   <section class="page-hero">
     <div class="wrap">
-      <p class="eyebrow"><span class="seg">Ph.D. Data Science Student</span> · <span class="seg">Published Research Scholar</span> · <span class="seg">Developer</span></p>
+      <p class="eyebrow"><span class="seg">Doctoral Researcher</span> · <span class="seg">Data Scientist</span> · <span class="seg">Geospatial Scientist</span> · <span class="seg">Peer-Reviewed Published Scientist</span></p>
       <h1>Experience across local, state, and <em>federal missions.</em></h1>
       <p class="lede">My work spans local government, national laboratories, federal research, and academia. Across all of it, I use data, geospatial analytics, artificial intelligence, and cybersecurity to support public service, protect critical infrastructure, and turn complex information into decisions people can use.</p>
+      <p class="hero-dl"><a class="btn btn-gold" href="docs/Victoria-Love-Franklin-CV.pdf" download>Download CV (PDF)</a></p>
       <div class="facts">
-        <div><strong>Ph.D. Student</strong><span>Data Science · Cybersecurity, expected 2027</span></div>
+        <div><strong>Ph.D. Student</strong><span>Data Science · Nuclear Cybersecurity, expected 2027</span></div>
         <div><strong>Local to Federal</strong><span><span class="fl">Metro Nashville &amp; Davidson County</span><span class="fl">U.S. Department of Energy</span><span class="fl">U.S. Department of Defense</span><span class="fl">U.S. Forest Service</span><span class="fl">U.S. Department of the Navy</span></span></div>
         <div><strong>5 Federal Labs</strong><span><span class="fl">Idaho National Laboratory <abbr>(INL)</abbr></span><span class="fl">Savannah River National Laboratory <abbr>(SRNL)</abbr></span><span class="fl">Oak Ridge National Laboratory <abbr>(ORNL · ORISE)</abbr></span><span class="fl">U.S. Naval Research Laboratory <abbr>(NRL · ONR)</abbr></span><span class="fl">U.S. Air Force School of Aerospace Medicine <abbr>(USAFSAM)</abbr></span></span></div>
         <div><strong>Nashville, TN</strong><span>Home base</span></div>
@@ -507,7 +550,7 @@
             <h3>SHIFT Scholar</h3>
             <p class="org"><span class="nw">NIH-Supported</span> Biomedical Workforce Development Program · <span class="seg">Meharry Medical College</span></p>
             <ul class="points">
-              <li>Trained in project management, budgeting, and scientific leadership for biomedical research careers.</li>
+              <li>Selected for a nationally recognized, highly competitive professional development program; trained in project management, budgeting, and scientific leadership for biomedical research careers. Certificate of Achievement.</li>
             </ul>
             <ul class="tags"><li>Scientific Leadership</li><li>Project Management</li><li>Budgeting</li></ul>
           </div>
@@ -546,7 +589,7 @@
           <div>
             <h3>Ph.D. Student / Doctoral Research Scholar</h3>
             <p class="org">SACS Cybersecurity Research Center · School of Applied Computational Sciences, Meharry Medical College</p>
-            <p class="also"><span class="seg">Dissertation Research</span> · Data Science, Cybersecurity Concentration</p>
+            <p class="also"><span class="seg">Dissertation Research</span> · Data Science, Nuclear Cybersecurity Concentration</p>
             <ul class="points">
               <li>Developing Nuclear Sentinel AI, an explainable, <span class="nw">AI-enabled</span> <span class="nw">digital-twin</span> framework for <span class="nw">cyber-physical</span> risk assessment and resilience in operational technology.</li>
               <li>Designing multimodal <span class="nw">machine-learning</span> methods that combine <span class="nw">control-system</span> activity, sensor measurements, and <span class="nw">digital-twin</span> context to detect abnormal behavior.</li>
@@ -729,10 +772,11 @@
       </div>
 
       <div class="pubs">
-        <h3>Accepted conference papers<small>Peer reviewed · Springer proceedings forthcoming</small></h3>
+        <h3>Accepted conference papers<small>Research Credentials: Three <span class="nw">Peer-Reviewed</span> Conference Papers Accepted for Publication&nbsp;(2026)</small></h3>
         <ul>
-          <li><span class="t"><span class="nw">Socio-Environmental</span> Grid Disruption Analysis (SEGDA): A <span class="nw">Multi-Scale</span> Spatial Assessment of Energy Justice and Climate Resilience Across California Census Tracts and Counties, <span class="nw">2018–2023</span> <span class="status ok">Accepted</span></span><span class="v">Franklin, V.L., et al. (2026). 10th EAI SmartGIFT.</span></li>
-          <li><span class="t">BioGrid Sentinel AI: A Geospatial Digital Twin Framework for Nuclear Infrastructure Resilience and Community Health Preparedness <span class="status ok">Accepted</span></span><span class="v">Franklin, V.L., et al. (2026). 10th EAI SmartGIFT.</span></li>
+          <li><span class="t"><span class="nw">Socio-Environmental</span> Grid Disruption Analysis (SEGDA): A <span class="nw">Multi-Scale</span> Spatial Assessment of Energy Justice and Climate Resilience Across California Census Tracts and Counties, <span class="nw">2018–2023</span> <span class="status ok">Accepted</span></span><span class="v">Franklin, V.L., et al. (2026). 10th EAI SmartGIFT 2026, Tempe, AZ, Nov 12–13, 2026. Springer LNICST.</span></li>
+          <li><span class="t">BioGrid Sentinel AI: A Geospatial Digital Twin Framework for Nuclear Infrastructure Resilience and Community Health Preparedness <span class="status ok">Accepted</span></span><span class="v">Franklin, V.L., et al. (2026). 10th EAI SmartGIFT 2026, Tempe, AZ, Nov 12–13, 2026. Springer LNICST.</span></li>
+          <li><span class="t">Decoding Tennessee Wastewater Surveillance: A Multimodal Geospatial Assessment of <span class="nw">Infectious-Disease</span> Signals, Surveillance Coverage, and <span class="nw">Public-Health</span> Equity <span class="status ok">Accepted</span></span><span class="v">Franklin, V.L. (2027). 12th ICEPTP 2027, London, UK, Apr 8–10, 2027. CSEE 2027 Congress&nbsp;Proceedings.</span></li>
         </ul>
       </div>
 
@@ -749,9 +793,9 @@
         <h3>Submitted &amp; in review</h3>
         <ul>
           <li><span class="t">From Pixels to Infrastructure Resilience: A Reproducible Google Earth Engine and Explainable GeoAI Pipeline for Climate, Grid, and Community Risk <span class="status pend">Chapter proposal</span></span><span class="v">Franklin, V.L. (2026). Proposed for <em>Geospatial Big Data Analysis in the Cloud with Google Earth Engine</em>, Taylor &amp; Francis.</span></li>
-          <li><span class="t">Wastewater Genomic Surveillance Grid: A Multimodal Framework for Geospatial, Genomic, and Public Health Intelligence <span class="status pend">Submitted</span></span><span class="v">Franklin, V.L. (2026). APHL ID Lab Con 2027 · submitted September 14, 2026; decision pending.</span></li>
-          <li><span class="t">Decoding Tennessee Wastewater Surveillance: A Multimodal Geospatial Assessment of <span class="nw">Infectious-Disease</span> Signals, Surveillance Coverage, and <span class="nw">Public-Health</span> Equity <span class="status pend">Submitted</span></span><span class="v">Franklin, V.L. (2026). APHL ID Lab Con 2027 · submitted September 14, 2026; decision pending.</span></li>
-          <li><span class="t">From Wastewater Signals to Clinical Burden: A Multimodal <span class="nw">Machine-Learning</span> and Geospatial Evaluation of Respiratory Virus Surveillance Across United States Jurisdictions <span class="status pend">Submitted</span></span><span class="v">Franklin, V.L. (2026). APHL ID Lab Con 2027 · submitted September 14, 2026; oral presentation requested; decision pending.</span></li>
+          <li><span class="t">Wastewater Genomic Surveillance Grid: A Multimodal Framework for Geospatial, Genomic, and Public Health Intelligence <span class="status pend">Submitted</span></span><span class="v">Franklin, V.L. (2026). APHL ID Lab Con 2027, Atlanta, GA, Mar 15–18, 2027 · digital poster · abstract 2531157; decision&nbsp;pending.</span></li>
+          <li><span class="t">Decoding Tennessee Wastewater Surveillance: A Multimodal Geospatial Assessment of <span class="nw">Infectious-Disease</span> Signals, Surveillance Coverage, and <span class="nw">Public-Health</span> Equity <span class="status pend">Submitted</span></span><span class="v">Franklin, V.L. (2026). APHL ID Lab Con 2027, Atlanta, GA, Mar 15–18, 2027 · traditional poster · abstract 2531131; decision&nbsp;pending.</span></li>
+          <li><span class="t">From Wastewater Signals to Clinical Burden: A Multimodal <span class="nw">Machine-Learning</span> and Geospatial Evaluation of Respiratory Virus Surveillance Across United States Jurisdictions <span class="status pend">Submitted</span></span><span class="v">Franklin, V.L. (2026). APHL ID Lab Con 2027, Atlanta, GA, Mar 15–18, 2027 · oral presentation (poster alternate) · abstract 2531099; decision&nbsp;pending.</span></li>
         </ul>
       </div>
     </div>
@@ -765,13 +809,14 @@
         <p>Selected presentations, panels, and posters.</p>
       </div>
       <div class="list-grid">
-        <div class="item"><span class="d">2026</span><span class="t">International Training Course on Protecting <span class="nw">Computer-Based</span> Systems in Nuclear Security Regimes</span><span class="v"><span class="seg">Presenter</span> · Idaho National Laboratory</span></div>
+        <div class="item"><span class="d">2026</span><span class="t">International Training Course on Protecting <span class="nw">Computer-Based</span> Systems in Nuclear Security Regimes</span><span class="v"><span class="seg">Presenter</span> · Idaho National Laboratory, Aug 5, 2026</span></div>
+        <div class="item"><span class="d">2026</span><span class="t">Meharry Ph.D. Spotlight: The <span class="nw">Socio-Environmental</span> Grid Disruption Analysis (SEGDA) Framework</span><span class="v"><span class="seg">Invited speaker</span> · Data Science Nashville Meetup, Mar 17, 2026</span></div>
         <div class="item"><span class="d">2026</span><span class="t">SEGDA and BioGrid Sentinel AI</span><span class="v"><span class="seg">Accepted presenter</span> · <span class="seg">EAI SmartGIFT</span></span></div>
         <div class="item"><span class="d">2026</span><span class="t">Advancing Student Success Through Cyberinfrastructure Pathways in AI, Data Science, and Geospatial Intelligence at an HBCU</span><span class="v"><span class="seg">Panel presenter</span> · <span class="seg"><span class="nw">MS-CC</span></span> Annual Meeting</span></div>
         <div class="item"><span class="d">2026</span><span class="t">Toward <span class="nw">Climate-Resilient</span> Energy Systems: A Geospatial <span class="nw">RAG-Enabled</span> Digital Twin Approach for Equity and Ecosystem Sustainability</span><span class="v"><span class="seg">Speaker</span> · 106th AMS Annual Meeting, 39th Conference on Climate Variability and Change</span></div>
         <div class="item"><span class="d">2026</span><span class="t">Natural Gas Infrastructure, Social Vulnerability, and Health Equity in California</span><span class="v"><span class="seg">Poster</span> · <span class="seg"><span class="nw">AIM-AHEAD</span></span> Southeast Hub Research Symposium</span></div>
         <div class="item"><span class="d">2025</span><span class="t">Using GIS and Metagenomics to Enhance Wastewater Surveillance</span><span class="v"><span class="seg">Poster</span> · Wastewater Disease Surveillance Summit</span></div>
-        <div class="item"><span class="d">2025</span><span class="t">Environmental Justice and Health Disparities Symposium</span><span class="v">Conference speaker</span></div>
+        <div class="item"><span class="d">2025</span><span class="t">HBCU National Spotlight: HBCU Partnerships and Collaborations in Support of Frontline Communities</span><span class="v"><span class="seg">Panelist</span> · 11th Annual Environmental Justice &amp; Health Disparities Symposium (CEEJH), Sep 10, 2025</span></div>
         <div class="item"><span class="d">2025</span><span class="t">STEM Day Speaker Series</span><span class="v"><span class="seg">Invited speaker</span> · Alabama A&amp;M University</span></div>
         <div class="item"><span class="d">2019</span><span class="t">Analysis and Valuation of Ecosystem Services Provided by Urban Trees Within Centennial Park</span><span class="v"><span class="seg">Poster &amp; panelist</span> · USGIF GEOINTegration Summit</span></div>
       </div>
@@ -889,8 +934,10 @@
           <h3>Professional Memberships</h3>
           <ul>
             <li>Coded Culture (Founder)</li>
+            <li>HBCU Environmental Justice Technical Collaborative <small>Member</small></li>
             <li>National Society of Black Engineers</li>
-            <li>IEEE</li>
+            <li>IEEE <small>Student Member, 2025–Present · Marketing &amp; Communications Officer, SACS IEEE Student Branch</small></li>
+            <li>American Meteorological Society <small>Student Member, 2025–Present</small></li>
             <li>Google Developer Groups</li>
             <li>Association of Public Health Laboratories</li>
             <li>Water Environment Federation</li>
@@ -910,7 +957,7 @@
         <p>Every degree, all of them in Nashville.</p>
       </div>
       <ul class="edu">
-        <li><span class="yr">2027</span><div><span class="t">Ph.D. in Data Science, Cybersecurity Concentration (expected)</span><span class="v"><span class="seg">Meharry Medical College</span> · <span class="seg">Dean’s List <span class="nw">2024–2025</span></span> &amp; <span class="nw">2025–2026</span> · Scholarship Recipient · GPA 3.93</span></div></li>
+        <li><span class="yr">2027</span><div><span class="t">Ph.D. in Data Science, Nuclear Cybersecurity Concentration (expected)</span><span class="v"><span class="seg">Meharry Medical College</span> · <span class="seg">Dean’s List <span class="nw">2024–2025</span></span> &amp; <span class="nw">2025–2026</span> · Scholarship Recipient · GPA 3.93</span></div></li>
         <li><span class="yr">2026</span><div><span class="t">Graduate Certificate, Public Administration &amp; Executive Leadership</span><span class="v">Tennessee State University</span></div></li>
         <li><span class="yr">2018</span><div><span class="t">Professional Science Master’s (PSM), Applied Geospatial Information Systems</span><span class="v">Tennessee State University</span></div></li>
         <li><span class="yr">2014</span><div><span class="t">B.S. in Urban Studies, Minor in Nonprofit Management &amp; Leadership</span><span class="v">Tennessee State University · <span class="seg">Dean’s List</span></span></div></li>
@@ -987,7 +1034,7 @@
 <footer id="contact">
   <div class="wrap">
     <a class="brand" href="index.html">Victoria <span>Love</span> Franklin</a>
-    <span><a href="mailto:victorialovefranklin@gmail.com">victorialovefranklin@gmail.com</a> · Nashville, TN · <a href="work-with-me.html">Work With Me</a> · <a href="https://github.com/victorialovefranklin" target="_blank" rel="noopener">GitHub</a></span>
+    <span><a href="mailto:victorialovefranklin@gmail.com">victorialovefranklin@gmail.com</a> · Nashville, TN</span>
     <span>© <span id="yr"></span> Victoria Love Franklin</span>
   </div>
 </footer>

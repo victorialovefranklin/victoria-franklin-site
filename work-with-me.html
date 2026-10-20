@@ -251,6 +251,36 @@
   @media (max-width:420px){.snapshot dd{font-size:1.02rem}}
   header nav .links{margin-left:32px}
   header nav .brand{flex:none}
+
+  /* ===== Clean white theme ===== */
+  :root{--gold-ink:#8f6a26}
+  body{background:#fff}
+  header{background:rgba(255,255,255,.97)!important;color:var(--navy)!important;border-bottom:1px solid var(--line);box-shadow:0 2px 12px rgba(20,33,58,.05)}
+  header .brand{color:var(--navy)!important}
+  header .brand span{color:var(--gold-ink)!important}
+  .links a{color:var(--navy)}
+  .links a:hover,.links a[aria-current]{color:var(--wine)!important}
+  .links .nav-cta,.links .nav-cta:hover{color:var(--navy)!important}
+  .menu-btn{color:var(--navy)!important}
+  .links{background:#fff!important;box-shadow:none}
+  @media (max-width:960px){.links{box-shadow:0 18px 30px rgba(20,33,58,.12)!important}.links a{border-bottom-color:var(--line)!important}}
+  footer{background:#fff!important;color:var(--body)!important;border-top:1px solid var(--line)}
+  footer .brand{color:var(--navy)!important}
+  footer .brand span{color:var(--gold-ink)!important}
+  footer a{color:var(--navy)}
+  .btn-ghost{border-color:var(--navy)!important;color:var(--navy)!important;background:transparent}
+  .btn-ghost:hover{background:var(--navy)!important;color:#fff!important}
+  .eyebrow{color:var(--gold-ink)!important}
+  .page-hero{background:#fff!important;color:var(--ink)!important;border-bottom:1px solid var(--line)}
+  .page-hero h1{color:var(--navy)!important}
+  .page-hero h1 em{color:var(--gold-ink)!important}
+  .page-hero .lede,.page-hero p{color:var(--body)!important}
+  .page-hero::before{border-color:rgba(196,154,74,.35)!important}
+  main > section:not(.banner-hero),section.tint,.tint{background:#fff!important}
+  .cta,.services,.differentiators{background:#fff!important}
+  .cta{border-top:1px solid var(--line)}
+  .page-hero dt{color:var(--gold-ink)!important}
+  .page-hero dd,.page-hero dd a{color:var(--navy)!important}
 </style>
 </head>
 <body>
@@ -266,7 +296,6 @@
       <li><a href="index.html#publications">Publications</a></li>
       <li><a href="experience.html">Full CV</a></li>
       <li><a href="index.html#contact">Contact</a></li>
-      <li><a class="nav-cta" href="work-with-me.html">Work With Me</a></li>
     </ul>
   </nav>
 </header>
