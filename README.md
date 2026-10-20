@@ -2,7 +2,7 @@
 
 **Doctoral Researcher | Data Scientist | Geospatial Scientist**
 
-Peer-Reviewed Published Scientist & Research Scholar · Ph.D. Student, Data Science & Cybersecurity, Meharry Medical College
+Peer-Reviewed Published Scientist & Research Scholar · Ph.D. Student, Data Science (Nuclear Cybersecurity), Meharry Medical College
 
 Data Science · Government Technology · Applied AI Research · Mentorship
 
@@ -16,7 +16,7 @@ Victoria L. Franklin is a doctoral researcher and data scientist specializing in
 
 | Page | What's on it |
 | --- | --- |
-| [Home](https://victorialovefranklin.github.io/victoria-franklin-site/) | Introduction, highlights, federal labs, government, academic research, mentorship, projects, publications, recognition, education, contact |
+| [Home](https://victorialovefranklin.github.io/victoria-franklin-site/) | Introduction, highlights, education, recognition and awards, mentorship, public service, speaking, affiliations, research expertise, federal labs, government, academic research, projects, publications, contact |
 | [Full CV](https://victorialovefranklin.github.io/victoria-franklin-site/experience.html) | Full record: roles, research approach, publications, teaching, affiliations, education, honors, skills |
 | [Full CV (PDF)](https://victorialovefranklin.github.io/victoria-franklin-site/docs/Victoria-Love-Franklin-CV.pdf) | Downloadable PDF of the full CV |
 
@@ -25,17 +25,20 @@ Victoria L. Franklin is a doctoral researcher and data scientist specializing in
 - **5 federal laboratories:** Idaho National Laboratory, Savannah River National Laboratory, Oak Ridge National Laboratory, U.S. Naval Research Laboratory, U.S. Air Force School of Aerospace Medicine
 - **Research Credentials:** Three Peer-Reviewed Conference Papers Accepted for Publication (2026): SEGDA and BioGrid Sentinel AI (EAI SmartGIFT 2026, Springer LNICST) · Decoding Tennessee Wastewater Surveillance (ICEPTP 2027)
 - **Research:** Nuclear Sentinel AI ([repository](https://github.com/victorialovefranklin/Nuclear-Sentinel/)), SEGDA / GridAI™, BioGrid Sentinel AI
+- **Speaking:** International Training Course on Protecting Computer-Based Systems in Nuclear Security Regimes, Idaho National Laboratory (2026) · Meharry Ph.D. Spotlight, Data Science Nashville (2026) · HBCU National Spotlight panel, Environmental Justice & Health Disparities Symposium (2025) · 106th AMS Annual Meeting (2026)
+- **Mentorship:** MS-CC Undergraduate Summer Research Internship co-mentor and curriculum developer (2025, 2026) · GIS Cyber Threat Mapping & Spatial Analytics workshop (2026)
+- **Affiliations:** HBCU Environmental Justice Technical Collaborative · GDG On Campus Organizer · SACS IEEE Student Branch, Marketing & Communications · IEEE and AMS Student Member · SHIFT Scholar
 - **Live research platform:** [NWGS Grid™](https://nwgsgrid.com/) for national wastewater genomic surveillance and public-health decision support
 - **Government technology:** Metro Nashville Register of Deeds public data portal and website
 - **Recognition:** Featured, Wiley’s Inspiring Black Scientists (2026) · 1st Place Research Award, Meharry (2025) · Governor-appointed, Tennessee Committee for Clinical Perfusionists
-- **Education:** Ph.D. in Data Science (Nuclear Cybersecurity concentration), Meharry Medical College · Dean's List & Scholarship Recipient
+- **Education:** Ph.D. in Data Science (Nuclear Cybersecurity concentration), Meharry Medical College, expected 2027 · Graduate Certificate, Public Administration & Executive Leadership, TSU (2026) · PSM, Applied Geospatial Information Systems, TSU (2018) · B.S., Urban Studies, TSU (2014) · A.A.S., Health Information Technology, Daymar Institute (2005)
 
 ## Contact
 
-✉️ [victorialovefranklin@gmail.com](mailto:victorialovefranklin@gmail.com) · Nashville, Tennessee
+✉️ [victorialovefranklin@gmail.com](mailto:victorialovefranklin@gmail.com) · Nashville, Tennessee · 📄 [Download CV (PDF)](https://victorialovefranklin.github.io/victoria-franklin-site/docs/Victoria-Love-Franklin-CV.pdf)
 
 ---
 
 ### About this repository
 
-The site is plain HTML with fonts and images built in, so there is no build step. It is published with GitHub Pages from the `main` branch (root folder). To update it, replace the HTML files and commit; changes go live within a few minutes.
+The site is plain HTML with fonts and images built in, so there is no build step. It is published with GitHub Pages from the `main` branch (root folder). To update it, replace the HTML files (and `docs/Victoria-Love-Franklin-CV.pdf`) and commit; changes go live within a few minutes.
