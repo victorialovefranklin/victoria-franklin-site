@@ -16,7 +16,7 @@ Victoria L. Franklin is a doctoral researcher and data scientist specializing in
 
 | Page | What's on it |
 | --- | --- |
-| [Home](https://victorialovefranklin.github.io/victoria-franklin-site/) | Introduction, highlights, education, recognition and awards, mentorship, speaking, affiliations, research expertise, federal labs, government and public service, academic research, projects, publications, contact |
+| [Home](https://victorialovefranklin.github.io/victoria-franklin-site/) | Introduction, highlights, education, recognition and awards, mentorship, speaking, affiliations, research expertise, federal labs, government and public service, academic research, NWGS Grid™, projects, publications, contact |
 | [Full CV](https://victorialovefranklin.github.io/victoria-franklin-site/experience.html) | Full record: roles, research approach, publications, teaching, affiliations, education, honors, skills |
 | [Full CV (PDF)](https://victorialovefranklin.github.io/victoria-franklin-site/docs/Victoria-Love-Franklin-CV.pdf) | Downloadable PDF of the full CV |
 
@@ -30,8 +30,8 @@ Victoria L. Franklin is a doctoral researcher and data scientist specializing in
 - **Speaking:** International Training Course on Protecting Computer-Based Systems in Nuclear Security Regimes, Idaho National Laboratory (2026) · Meharry Ph.D. Spotlight, Data Science Nashville (2026) · HBCU National Spotlight panel, Environmental Justice & Health Disparities Symposium (2025) · 106th AMS Annual Meeting (2026)
 - **Mentorship:** MS-CC Undergraduate Summer Research Internship co-mentor and curriculum developer (2025, 2026) · GIS Cyber Threat Mapping & Spatial Analytics workshop (2026)
 - **Affiliations:** HBCU Environmental Justice Technical Collaborative · GDG On Campus Organizer · SACS IEEE Student Branch, Marketing & Communications Officer · IEEE and AMS Student Member (2025–Present) · SHIFT Scholar (2025–2026)
-- **Presented:** Using GIS and Metagenomics to Enhance Wastewater Surveillance, poster at the 2025 Wastewater Disease Surveillance Summit (Los Angeles, June 3–4; WEF with CDC) · [Summit page](https://nwbe.org/?page_id=175#summit) · [Poster (PDF)](https://nwbe.org/wp-content/uploads/2025/06/Franklin-et-al-Using-GIS-and-metagenomics-to-enhance-wastewater-surveillance.pdf)
-- **Live research platform:** [NWGS Grid™](https://nwgsgrid.com/) for national wastewater genomic surveillance and public-health decision support
+- **Live research platform:** [NWGS Grid™](https://nwgsgrid.com/) shows what wastewater testing can detect across the United States and which communities it cannot see. It rebuilds weekly from public CDC and federal data, with 28 validation checks per run, and has been in development since Fall 2024.
+- **Memberships:** APHL (Professional Member; Wastewater Surveillance Community of Practice) · Water Environment Federation · Clean Water Professionals of KY & TN · Alabama, Mississippi & South Carolina Water Environment Associations · SACS Student Ambassador (by invitation)
 - **Government technology:** Metro Nashville Register of Deeds public data portal and website
 - **Recognition:** Featured, Wiley’s Inspiring Black Scientists (2026) · Featured, WastewaterSCAN Q&A (2026) · Women’s History Month Honoree, HBCU Environmental Justice Technical Collaborative (2026) · 1st Place Research Award, Meharry (2025) · Governor-appointed, Tennessee Committee for Clinical Perfusionists
 - **Education:** Ph.D. in Data Science (Nuclear Cybersecurity concentration), Meharry Medical College, expected 2027 · Graduate Certificate, Public Administration & Executive Leadership, TSU (2026) · PSM, Applied Geospatial Information Systems, TSU (2018) · B.S., Urban Studies, TSU (2014) · A.A.S., Health Information Technology, Daymar Institute (2005)
