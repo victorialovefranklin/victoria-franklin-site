@@ -909,6 +909,14 @@
  .ct-table.stack td.n::before{display:inline;margin-right:6px}
  .ct-links li{grid-template-columns:1fr}
 }
+
+/* TSU Homecoming gallery */
+.tsu-gallery{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));grid-auto-rows:220px;gap:10px}
+.tsu-gallery figure{margin:0;min-width:0;overflow:hidden;border-radius:12px;box-shadow:0 10px 24px rgba(20,33,58,.14);background:var(--cream)}
+.tsu-gallery .g5{grid-column:span 2}
+.tsu-gallery button{display:block;width:100%;height:100%;padding:0;border:0;background:none;cursor:zoom-in}
+.tsu-gallery img{display:block;width:100%;height:100%;object-fit:cover;object-position:center 30%}
+@media (max-width:720px){.tsu-gallery{grid-template-columns:repeat(2,minmax(0,1fr));grid-auto-rows:180px}.tsu-gallery .g5{grid-column:span 2;}}
 </style>
 </head>
 <body>
@@ -1011,6 +1019,15 @@
           <p class="feature-cite">Named Parade Grand Marshal of the 2026 Nashville Veterans Day Parade, representing Meharry Medical College during its 150th anniversary year (Meharry&nbsp;150: Forever on the Path) as a published research scholar and Ph.D. data science student. Meharry students, faculty, staff, and alumni are invited to march with the&nbsp;delegation.</p>
           <p class="feature-credit">Flyer by Meharry Medical College, reproduced with&nbsp;credit.</p>
         </div>
+      </div>
+
+      <div class="feature-grid tsu-hc" id="tsu-homecoming" style="margin-top:0;margin-bottom:64px">
+        <div>
+          <h2 class="title">TSU Homecoming <em>Parade</em></h2>
+          <p class="recog-meta">Parade participant · Saturday, October 17, 2026 · Jefferson Street, Nashville,&nbsp;TN · Tennessee State University’s 99th Homecoming, “The Blue Never&nbsp;Fades”</p>
+          <p class="feature-cite">Marched in the Tennessee State University 2026 Homecoming Parade with the team of Karen Johnson, Davidson County Register of Deeds, where Victoria serves as Data Analytics &amp; Technology Fellow and Project Lead. A proud TSU alumna (PSM in Applied Geospatial Information Systems, B.S. in Urban Studies), she joined fellow alumni, students, and Nashville community members along historic Jefferson&nbsp;Street.</p>
+        </div>
+        <div class="tsu-gallery"><figure class="g1"><button type="button" class="zoom" aria-label="Enlarge photo 1 of 5 from the 2026 TSU Homecoming Parade"><img width="480" height="637" loading="lazy" decoding="async" src="docs/tsu-homecoming-2026/tsu-homecoming-2026-1.jpg" alt="Two parade participants in Tennessee State University blue waving at the 2026 TSU Homecoming Parade lineup"></button></figure><figure class="g2"><button type="button" class="zoom" aria-label="Enlarge photo 2 of 5 from the 2026 TSU Homecoming Parade"><img width="480" height="640" loading="lazy" decoding="async" src="docs/tsu-homecoming-2026/tsu-homecoming-2026-2.jpg" alt="Selfie with a participant in a TSU cap and jacket at the 2026 TSU Homecoming Parade, with parade floats and a fire truck behind"></button></figure><figure class="g3"><button type="button" class="zoom" aria-label="Enlarge photo 3 of 5 from the 2026 TSU Homecoming Parade"><img width="480" height="640" loading="lazy" decoding="async" src="docs/tsu-homecoming-2026/tsu-homecoming-2026-3.jpg" alt="Selfie with a participant in a TSU hoodie at the 2026 TSU Homecoming Parade lineup, wearing Davidson County Register of Deeds team apparel"></button></figure><figure class="g4"><button type="button" class="zoom" aria-label="Enlarge photo 4 of 5 from the 2026 TSU Homecoming Parade"><img width="480" height="640" loading="lazy" decoding="async" src="docs/tsu-homecoming-2026/tsu-homecoming-2026-4.jpg" alt="Selfie with a participant in a TSU Homecoming 2026 hoodie at the parade lineup"></button></figure><figure class="g5"><button type="button" class="zoom" aria-label="Enlarge photo 5 of 5 from the 2026 TSU Homecoming Parade"><img width="800" height="722" loading="lazy" decoding="async" src="docs/tsu-homecoming-2026/tsu-homecoming-2026-5.jpg" alt="Two participants smiling together at the 2026 TSU Homecoming Parade on a sunny morning"></button></figure></div>
       </div>
 
       <div class="award" id="award">
