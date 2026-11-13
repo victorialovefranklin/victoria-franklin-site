@@ -67,7 +67,7 @@ a.chip:hover{background:#EED6DE;color:var(--wine-deep)}
 .now p{font-size:12px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
 .now ul{display:flex;flex-wrap:wrap;gap:8px}
 .portrait{margin:0;position:relative;justify-self:center;width:100%;max-width:440px}
-.portrait img{width:100%;aspect-ratio:4/5;object-fit:cover;object-position:50% 20%;border-radius:24px}
+.portrait img{width:100%;height:auto;border-radius:24px}
 .portrait figcaption{position:absolute;left:16px;bottom:16px;background:#fff;border-radius:14px;padding:12px 16px;display:flex;flex-direction:column;gap:2px;box-shadow:0 8px 24px rgba(31,20,24,.14)}
 .portrait figcaption b{font-size:14px}.portrait figcaption span{font-size:13px;color:var(--muted)}
 
@@ -96,10 +96,10 @@ a.chip:hover{background:#EED6DE;color:var(--wine-deep)}
 .card-dark h3{font:500 32px/1.1 var(--serif)}
 .card-dark p{color:#E8DFE2;font-size:15px}
 .card-dark a{color:#fff}
-.card-dark .banner{border-radius:12px;background:#fff;padding:8px;margin:6px 0}
-.thumb{position:relative;display:block;width:100%;padding:0;border:0;border-radius:12px;overflow:hidden;cursor:zoom-in;background:var(--soft);aspect-ratio:16/10;margin-bottom:6px}
-.thumb img{width:100%;height:100%;object-fit:cover;transition:transform .3s}
-.thumb:hover img{transform:scale(1.03)}
+.card-dark .banner{border-radius:12px;background:#fff;padding:0;margin:6px 0;width:100%;height:auto}
+.thumb{position:relative;display:block;width:100%;padding:8px;border:1px solid var(--line);border-radius:12px;overflow:hidden;cursor:zoom-in;background:var(--soft);aspect-ratio:4/3;margin-bottom:6px}
+.thumb img{width:100%;height:100%;object-fit:contain;object-position:center}
+.thumb:hover{border-color:var(--wine)}
 .thumb .count{position:absolute;right:10px;bottom:10px;background:rgba(31,20,24,.82);color:#fff;font:600 12px var(--sans);padding:4px 9px;border-radius:999px}
 
 /* Tabs */
@@ -270,7 +270,7 @@ table.exp td small{display:block;color:var(--muted);font-size:12.5px}
   .earlier li{grid-template-columns:1fr;gap:0}
   .lb-prev,.lb-next{top:auto;bottom:18px}
 }
-@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}.thumb img{transition:none}}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 
 /* Print: the Full CV prints every section */
 @media print{
@@ -307,8 +307,8 @@ table.exp td small{display:block;color:var(--muted);font-size:12.5px}
 @media print{.naics-print{display:block}}
 
 .pub-thumb{max-width:180px}
-.pub-thumb .thumb{aspect-ratio:4/3;margin:2px 0 0}
+.pub-thumb .thumb{margin:2px 0 0}
 .wwm-top{display:grid;grid-template-columns:minmax(0,1fr) 260px;gap:40px;align-items:center}
-.wwm-portrait{width:260px;height:260px;border-radius:50%;object-fit:cover}
-@media screen and (max-width:760px){.wwm-top{grid-template-columns:1fr;gap:24px}.wwm-portrait{width:180px;height:180px}}
+.wwm-portrait{width:260px;height:auto;border-radius:50%}
+@media screen and (max-width:760px){.wwm-top{grid-template-columns:1fr;gap:24px}.wwm-portrait{width:180px}}
 @media print{.pub-thumb{display:none}}
