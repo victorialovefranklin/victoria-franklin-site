@@ -16,16 +16,18 @@ Victoria L. Franklin is a doctoral researcher and data scientist specializing in
 
 | Page | What's on it |
 | --- | --- |
-| [Home](https://victorialovefranklin.github.io/victoria-franklin-site/) | Introduction, highlights, education, recognition and awards, mentorship, speaking, affiliations, research expertise, federal labs, government and public service, academic research, NWGS Grid™, projects, publications, contact |
-| [Full CV](https://victorialovefranklin.github.io/victoria-franklin-site/experience.html) | Full record: roles, research approach, publications, teaching, affiliations, education, honors, skills |
-| [Full CV (PDF)](https://victorialovefranklin.github.io/victoria-franklin-site/docs/Victoria-Love-Franklin-CV.pdf) | Downloadable PDF of the full CV |
+| [Home](https://victorialovefranklin.github.io/victoria-franklin-site/) | Introduction, current roles, at-a-glance numbers, research and platforms (NWGS Grid™, Nuclear Sentinel AI, SEGDA / [GridAI™](https://gridaitm.com/), BioGrid Sentinel AI), tabbed highlights (recognition, speaking, mentorship, community, affiliations), Franklin HUB SMART Center, contact |
+| [Full CV](https://victorialovefranklin.github.io/victoria-franklin-site/experience.html) | Tabbed full record: experience, publications (each work listed once), research approach, talks, teaching, service, affiliations, education, honors, skills |
+| [CV (PDF, 2 pages)](https://victorialovefranklin.github.io/victoria-franklin-site/docs/Victoria-Love-Franklin-CV.pdf) | Two-page CV |
+| [Full academic CV (PDF)](https://victorialovefranklin.github.io/victoria-franklin-site/docs/Victoria-Love-Franklin-CV-Full.pdf) | Every section of the Full CV page |
+| [Work With Me](https://victorialovefranklin.github.io/victoria-franklin-site/work-with-me.html) | Capability statement: competencies, services, key personnel experience, NAICS codes |
 
 ## Highlights
 
 - **Current and recent roles:** NREIP Fall Engagement Participant, U.S. Naval Research Laboratory (Oct–Dec 2026) · Data Analytics & Technology Fellow and Project Lead, Metro Nashville Register of Deeds (Sep–Nov 2026) · Post-PhD Candidacy Technical Intern, Nuclear Cybersecurity, Idaho National Laboratory (Jul–Sep 2026) · CASPER Scholar & DOE Research Scholar, Savannah River National Laboratory (Jul 2025–Jan 2026)
 - **5 federal laboratories:** Idaho National Laboratory, Savannah River National Laboratory, Oak Ridge National Laboratory, U.S. Naval Research Laboratory, U.S. Air Force School of Aerospace Medicine
 - **Research Credentials:** Seven Peer-Reviewed Conference Papers Accepted for Presentation and Publication: five at the 12th ICEPTP 2027 (London, UK, CSEE 2027 Congress proceedings; final versions uploaded): Decoding Tennessee Wastewater Surveillance, NWGS Grid, From Wastewater Signals to Clinical Burden, Beyond Point Accuracy, and Two Ceilings on Wastewater-Based Surveillance · two at the 10th EAI SmartGIFT 2026 (Tempe, AZ, Springer LNICST; camera-ready submitted, publication pending): SEGDA and BioGrid Sentinel AI
-- **Under review / submitted:** three abstracts to APHL ID Lab Con 2027 (Atlanta, Mar 15–18, 2027; under review) · three digital-twin paper abstracts to NPIC&HMIT 2027 with ISOFIC 2027 (Salt Lake City, May 9–13, 2027; under review) · full paper to M&C 2027 (Columbus, OH, Apr 18–22, 2027; under review, Submission 12911) · book chapter proposal, Taylor & Francis · SEGDA virtual poster, 4th Annual Dr. Clifton K. Meador Poster Session (2026; submission status unconfirmed). See [Research by domain](#research-by-domain) and the [Research Conference & Publication Tracker](#research-conference--publication-tracker--20262027) below.
+- **Under review / submitted:** three abstracts to APHL ID Lab Con 2027 (Atlanta, Mar 15–18, 2027; under review) · three digital-twin paper abstracts to NPIC&HMIT 2027 with ISOFIC 2027 (Salt Lake City, May 9–13, 2027; under review) · full paper to M&C 2027 (Columbus, OH, Apr 18–22, 2027; under review, Submission 12911) · book chapter proposal, Taylor & Francis. See [Research by domain](#research-by-domain) and the [Research Conference & Publication Tracker](#research-conference--publication-tracker--20262027) below.
 - **Research:** Nuclear Sentinel AI ([repository](https://github.com/victorialovefranklin/Nuclear-Sentinel/)), SEGDA / GridAI™, BioGrid Sentinel AI
 - **Speaking:** International Training Course on Protecting Computer-Based Systems in Nuclear Security Regimes, Idaho National Laboratory (2026) · Meharry Ph.D. Spotlight, Data Science Nashville (2026) · HBCU National Spotlight panel, Environmental Justice & Health Disparities Symposium (2025) · 106th AMS Annual Meeting (2026)
 - **Mentorship:** MS-CC Undergraduate Summer Research Internship co-mentor and curriculum developer (2025, 2026) · GIS Cyber Threat Mapping & Spatial Analytics workshop (2026)
@@ -33,7 +35,7 @@ Victoria L. Franklin is a doctoral researcher and data scientist specializing in
 - **Live research platform:** [NWGS Grid™](https://nwgsgrid.com/) shows what wastewater testing can detect across the United States and which communities it cannot see. It rebuilds weekly from public CDC and federal data, with 28 validation checks per run, and has been in development since Fall 2024.
 - **Memberships:** APHL (Professional Member; Wastewater Surveillance Community of Practice) · Water Environment Federation · Clean Water Professionals of KY & TN · Alabama, Mississippi & South Carolina Water Environment Associations · SACS Student Ambassador (by invitation)
 - **Government technology:** Metro Nashville Register of Deeds public data portal and website
-- **Recognition:** Parade Grand Marshal, Nashville Veterans Day Parade, representing Meharry Medical College (Nov 11, 2026 · Downtown Broadway · [flyer](docs/2026-nashville-veterans-day-parade-flyer.jpg)) · Featured, Wiley’s Inspiring Black Scientists (2026) · Featured, WastewaterSCAN Q&A (2026) · Women’s History Month Honoree, HBCU Environmental Justice Technical Collaborative (2026) · 1st Place Research Award, Meharry (2025) · Governor-appointed, Tennessee Committee for Clinical Perfusionists
+- **Recognition:** Poster Prize, Dr. Clifton K. Meador Student Poster Competition, for “Hidden Communities, Unequal Resilience” (SEGDA), presented at the 4th Annual Dr. Clifton K. Meador Lectureship, Meharry Medical College (Nov 19, 2026) · Parade Grand Marshal, Nashville Veterans Day Parade, representing Meharry Medical College (Nov 11, 2026 · Downtown Broadway · [flyer](docs/2026-nashville-veterans-day-parade-flyer.jpg)) · Featured, Wiley’s Inspiring Black Scientists (2026) · Featured, WastewaterSCAN Q&A (2026) · Women’s History Month Honoree, HBCU Environmental Justice Technical Collaborative (2026) · 1st Place Research Award, Meharry (2025) · Governor-appointed, Tennessee Committee for Clinical Perfusionists
 - **Community:** Parade Grand Marshal, Nashville Veterans Day Parade (Nov 11, 2026) · Parade participant, Tennessee State University 2026 Homecoming Parade (“The Blue Never Fades,” Oct 17, 2026, Jefferson Street) with the team of Karen Johnson, Davidson County Register of Deeds ([photos](docs/tsu-homecoming-2026/))
 - **Education:** Ph.D. in Data Science (Nuclear Cybersecurity concentration), Meharry Medical College, expected 2027 · Graduate Certificate, Public Administration & Executive Leadership, TSU (December 4, 2026) · PSM, Applied Geospatial Information Systems, TSU (2018) · B.S., Urban Studies, TSU (2014) · A.A.S., Health Information Technology, Daymar Institute (2005) · Proud TSU alumna, three TSU credentials ([Proud Tiger graphic](docs/tsu-alumni-proud-tiger.jpg))
 
@@ -64,7 +66,7 @@ Victoria Love Franklin is first author on every paper, abstract, and poster list
 ### 03 · Power & Energy Systems: Energy Justice, Climate Resilience & Environmental Health
 
 - **Socio-Environmental Grid Disruption Analysis (SEGDA): A Multi-Scale Spatial Assessment of Energy Justice and Climate Resilience Across California Census Tracts and Counties, 2018–2023**: Accepted, EAI SmartGIFT 2026 (camera-ready submitted, publication pending)
-- **SEGDA: Environmental Justice, Power Outage Burden, and Climate Stress Across California Census Tracts and Counties (2018–2023): Implications for Public Health Equity**: Under review, 4th Annual Dr. Clifton K. Meador Poster Session (submission status unconfirmed)
+- **SEGDA: Environmental Justice, Power Outage Burden, and Climate Stress Across California Census Tracts and Counties (2018–2023): Implications for Public Health Equity**: Poster Prize, Dr. Clifton K. Meador Student Poster Competition, 4th Annual Dr. Clifton K. Meador Lectureship, Meharry Medical College (Nov 19, 2026)
 - **Toward Climate-Resilient Energy Systems: A Geospatial RAG-Enabled Digital Twin Approach for Equity and Ecosystem Sustainability**: Oral presentation, 106th AMS Annual Meeting (2026)
 - **Meharry Ph.D. Spotlight: The Socio-Environmental Grid Disruption Analysis (SEGDA) Framework**: Invited talk, Data Science Nashville Meetup (March 17, 2026)
 - **Natural Gas Infrastructure, Social Vulnerability, and Health Equity in California: A Multi-Scale Spatial Analysis**: Poster, AIM-AHEAD Southeast Hub Research Symposium (2026)
@@ -125,9 +127,9 @@ _Association of Public Health Laboratories · Atlanta, GA · March 15–18, 2027
 
 | Total submissions | Accepted | Under review | Submitted / unconfirmed |
 | :---: | :---: | :---: | :---: |
-| **15** | **7** | **7** | **1** |
+| **15** | **7** papers + 1 poster prize | **7** | **0** |
 
-Updated November 4, 2026. Also on the site: [Home → Research by domain](https://victorialovefranklin.github.io/victoria-franklin-site/#publications) and [Full CV](https://victorialovefranklin.github.io/victoria-franklin-site/experience.html#conference-tracker).
+Updated November 13, 2026. Also on the site: [Full CV → Publications](https://victorialovefranklin.github.io/victoria-franklin-site/experience.html#publications).
 
 ### Complete Conference Submission & Publication Table
 
@@ -147,7 +149,7 @@ Updated November 4, 2026. Also on the site: [Home → Research by domain](https:
 | 12 | NPIC&HMIT 2027 (with ISOFIC 2027) | Digital-Twin Residuals for Accident Diagnosis on a Simulated Pressurized-Water Reactor | Nuclear & cyber-physical AI | Paper (Abstract Submission) | Under Review — I&C 1b · Submission 14229 |
 | 13 | NPIC&HMIT 2027 (with ISOFIC 2027) | Does Digital-Twin Evidence Carry Over between Plants? Threshold Calibration and Seed Robustness in Cyber-Physical Anomaly Detection for Nuclear Instrumentation and Control Security | Nuclear & cyber-physical AI | Paper (Abstract Submission) | Under Review — I&C 1e · Submission 14338 |
 | 14 | NPIC&HMIT 2027 (with ISOFIC 2027) | A Digital Twin Driven Operator Display with Verified Language-Model Explanations for Reactor Accident Diagnosis | Nuclear & cyber-physical AI | Paper (Abstract Submission) | Under Review — Human Factors 2i · Submission 14339 |
-| 15 | Dr. Clifton K. Meador 4th Annual Poster Session & Lectureship 2026 | SEGDA: Environmental Justice, Power Outage Burden, and Climate Stress Across California Census Tracts and Counties (2018–2023): Implications for Public Health Equity | Energy justice & climate | Virtual Poster | Under Review — Submission Status Unconfirmed |
+| 15 | Dr. Clifton K. Meador 4th Annual Poster Session & Lectureship 2026 | SEGDA: Environmental Justice, Power Outage Burden, and Climate Stress Across California Census Tracts and Counties (2018–2023): Implications for Public Health Equity | Energy justice & climate | Virtual Poster | Poster Prize |
 
 ### Conference summary
 
@@ -158,8 +160,8 @@ Updated November 4, 2026. Also on the site: [Home → Research by domain](https:
 | ICEPTP | 2027 | 5 | 5 | 0 | 0 |
 | M&C | 2027 | 1 | 0 | 1 | 0 |
 | NPIC&HMIT | 2027 | 3 | 0 | 3 | 0 |
-| Meador Poster Session | 2026 | 1 | 0 | 0 | 1 |
-| **Total** | | **15** | **7** | **7** | **1** |
+| Meador Poster Session | 2026 | 1 | 1 (Poster Prize) | 0 | 0 |
+| **Total** | | **15** | **7** + poster prize | **7** | **0** |
 
 ### Conference websites
 
@@ -182,4 +184,6 @@ Updated November 4, 2026. Also on the site: [Home → Research by domain](https:
 
 ### About this repository
 
-The site is plain HTML with fonts and images built in, so there is no build step. It is published with GitHub Pages from the `main` branch (root folder). To update it, replace the HTML files (and `docs/Victoria-Love-Franklin-CV.pdf`) and commit; changes go live within a few minutes.
+The site is plain HTML, CSS and JavaScript with no build step. Shared styles and scripts are in `docs/site.css` and `docs/site.js`, fonts in `docs/fonts/`, and photos in `docs/img/` (with smaller copies in `docs/img/thumbs/`). It is published with GitHub Pages from the `main` branch (root folder); changes go live within a few minutes of a push.
+
+**Links:** [NWGS Grid™](https://nwgsgrid.com/) · [GridAI™](https://gridaitm.com/) · [Franklin HUB SMART Center](https://franklinhubsmartcenter.com/) · [Franklin Research Hub on GitHub](https://github.com/Franklin-Research-Hub) · [Nuclear Sentinel AI](https://github.com/victorialovefranklin/Nuclear-Sentinel/)
