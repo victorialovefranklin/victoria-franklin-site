@@ -178,7 +178,7 @@ Updated November 13, 2026. Also on the site: [Full CV → Publications](https://
 
 ## Contact
 
-✉️ [victorialovefranklin@gmail.com](mailto:victorialovefranklin@gmail.com) · ORCID [0009-0004-8883-767X](https://orcid.org/0009-0004-8883-767X) · Nashville, Tennessee · 📄 [Download CV (PDF)](https://victorialovefranklin.github.io/victoria-franklin-site/docs/Victoria-Love-Franklin-CV.pdf)
+✉️ [victorialovefranklin@gmail.com](mailto:victorialovefranklin@gmail.com) · ORCID [0009-0004-8883-767X](https://orcid.org/0009-0004-8883-767X) · [LinkedIn](https://www.linkedin.com/in/victoria-love-f-553740410/) · Nashville, Tennessee · 📄 [Download CV (PDF)](https://victorialovefranklin.github.io/victoria-franklin-site/docs/Victoria-Love-Franklin-CV.pdf)
 
 ---
 
@@ -186,4 +186,4 @@ Updated November 13, 2026. Also on the site: [Full CV → Publications](https://
 
 The site is plain HTML, CSS and JavaScript with no build step. Shared styles and scripts are in `docs/site.css` and `docs/site.js`, fonts in `docs/fonts/`, and photos in `docs/img/` (with smaller copies in `docs/img/thumbs/`). It is published with GitHub Pages from the `main` branch (root folder); changes go live within a few minutes of a push.
 
-**Links:** [NWGS Grid™](https://nwgsgrid.com/) · [GridAI™](https://gridaitm.com/) · [Franklin HUB SMART Center](https://franklinhubsmartcenter.com/) · [Franklin Research Hub on GitHub](https://github.com/Franklin-Research-Hub) · [Nuclear Sentinel AI](https://github.com/victorialovefranklin/Nuclear-Sentinel/)
+**Links:** [LinkedIn](https://www.linkedin.com/in/victoria-love-f-553740410/) · [NWGS Grid™](https://nwgsgrid.com/) · [GridAI™](https://gridaitm.com/) · [Franklin HUB SMART Center](https://franklinhubsmartcenter.com/) · [Franklin Research Hub on GitHub](https://github.com/Franklin-Research-Hub) · [Nuclear Sentinel AI](https://github.com/victorialovefranklin/Nuclear-Sentinel/)
