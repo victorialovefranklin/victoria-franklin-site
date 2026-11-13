@@ -1,0 +1,53 @@
+/* Franklin HUB SMART Center brand theme for the personal site (home and Work With Me) */
+@font-face{font-family:"Manrope";font-style:normal;font-weight:200 800;font-display:swap;src:url(fonts/manrope.woff2) format("woff2")}
+@font-face{font-family:"DM Sans";font-style:normal;font-weight:100 1000;font-display:swap;src:url(fonts/dm-sans.woff2) format("woff2")}
+@font-face{font-family:"DM Sans";font-style:italic;font-weight:100 1000;font-display:swap;src:url(fonts/dm-sans-italic.woff2) format("woff2")}
+body.hub-theme{
+  --ink:#161A26;--body:#3A3F4B;--muted:#5F6672;--line:#E4E6E5;--soft:#F5F5F2;
+  --wine:#5D20B7;--wine-deep:#46168C;--rose:#F1ECFF;
+  --purple:#7856E8;--lime:#D7FB74;
+  --serif:"Manrope",system-ui,sans-serif;--sans:"DM Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --r:10px;
+  font-family:var(--sans);color:var(--ink)
+}
+.hub-theme :focus-visible{outline-color:var(--purple)}
+/* Headings: Manrope, heavy and tight like the hub site */
+.hub-theme .brand b{font:800 21px/1 var(--serif);letter-spacing:-.04em}
+.hub-theme .hero h1,.hub-theme .page-hero h1{font-family:var(--serif);font-weight:800;letter-spacing:-.055em;line-height:1.05}
+.hub-theme .hero h1 em,.hub-theme .page-hero h1 em{font-style:normal;color:var(--wine)}
+.hub-theme .sec-head h2,.hub-theme .h2,.hub-theme .site-footer h2{font-family:var(--serif);font-weight:800;letter-spacing:-.05em}
+.hub-theme .sec-head h2 em{font-style:normal;color:var(--wine)}
+.hub-theme .card h3,.hub-theme .svc h3,.hub-theme .diff h3{font-family:var(--serif);font-weight:700;letter-spacing:-.02em}
+.hub-theme .card-dark h3{font:800 32px/1.05 var(--serif);letter-spacing:-.05em}
+.hub-theme .stats li b{font-family:var(--serif);font-weight:800;letter-spacing:-.04em;color:var(--wine)}
+.hub-theme .smart b{font-family:var(--serif);font-weight:800}
+/* Labels */
+.hub-theme .eyebrow{font-size:11px;font-weight:800;letter-spacing:2.6px;color:var(--wine)}
+.hub-theme .card .meta{color:var(--wine)}
+.hub-theme .now p,.hub-theme .snapshot dt{letter-spacing:2.2px;font-weight:800;font-size:11px}
+/* Buttons: squared like the hub site */
+.hub-theme .btn{border-radius:6px;font-weight:700;font-size:14px}
+.hub-theme .btn-primary{background:var(--ink);color:#fff}
+.hub-theme .btn-primary:hover{background:var(--wine);color:#fff}
+.hub-theme .btn-ghost{border-color:var(--ink)}
+.hub-theme .site-nav .btn{border-radius:6px}
+.hub-theme .chip{border-radius:6px;background:var(--rose);color:var(--wine-deep)}
+.hub-theme a.chip:hover{background:#E4DAFF}
+/* Tabs and cards */
+.hub-theme .tabs{border-radius:8px;background:var(--soft)}
+.hub-theme .tab{border-radius:6px}
+.hub-theme .tab[aria-selected="true"]{color:var(--wine)}
+.hub-theme .card,.hub-theme .svc{border-radius:var(--r)}
+.hub-theme .card-dark{background:var(--ink);border-color:var(--ink)}
+.hub-theme .card-dark .meta{color:var(--lime)}
+.hub-theme .thumb{border-radius:8px}
+.hub-theme .portrait img{border-radius:14px}
+.hub-theme .portrait::after{content:"";position:absolute;right:-12px;top:-12px;width:64px;height:64px;background:var(--purple);border-radius:4px;z-index:-1}
+.hub-theme .portrait{z-index:0}
+.hub-theme .competencies li{border-radius:8px}
+.hub-theme .diff{border-top-color:var(--purple)}
+.hub-theme .naics b{color:var(--wine)}
+/* Accent rule under section titles, the hub's purple square motif */
+.hub-theme .sec-head h2::after{content:"";display:inline-block;width:10px;height:10px;background:var(--purple);margin-left:8px;vertical-align:baseline}
+.hub-theme .lightbox img{border-radius:6px}
+.hub-theme .hub .eyebrow{color:var(--lime)}
