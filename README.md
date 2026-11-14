@@ -27,7 +27,7 @@ Victoria L. Franklin is a doctoral researcher and data scientist specializing in
 - **Current and recent roles:** NREIP Fall Engagement Participant, U.S. Naval Research Laboratory (Oct–Dec 2026) · Data Analytics & Technology Fellow and Project Lead, Metro Nashville Register of Deeds (Sep–Nov 2026) · Post-PhD Candidacy Technical Intern, Nuclear Cybersecurity, Idaho National Laboratory (Jul–Sep 2026) · CASPER Scholar & DOE Research Scholar, Savannah River National Laboratory (Jul 2025–Jan 2026)
 - **5 federal laboratories:** Idaho National Laboratory, Savannah River National Laboratory, Oak Ridge National Laboratory, U.S. Naval Research Laboratory, U.S. Air Force School of Aerospace Medicine
 - **Research Credentials:** Seven Peer-Reviewed Conference Papers Accepted for Presentation and Publication: five at the 12th ICEPTP 2027 (London, UK, CSEE 2027 Congress proceedings; final versions uploaded): Decoding Tennessee Wastewater Surveillance, NWGS Grid, From Wastewater Signals to Clinical Burden, Beyond Point Accuracy, and Two Ceilings on Wastewater-Based Surveillance · two at the 10th EAI SmartGIFT 2026 (Tempe, AZ, Springer LNICST; camera-ready submitted, publication pending): SEGDA and BioGrid Sentinel AI
-- **Under review / submitted:** three abstracts to APHL ID Lab Con 2027 (Atlanta, Mar 15–18, 2027; under review) · three digital-twin paper abstracts to NPIC&HMIT 2027 with ISOFIC 2027 (Salt Lake City, May 9–13, 2027; under review) · full paper to M&C 2027 (Columbus, OH, Apr 18–22, 2027; under review, Submission 12911) · book chapter proposal, Taylor & Francis. See [Research by domain](#research-by-domain) and the [Research Conference & Publication Tracker](#research-conference--publication-tracker--20262027) below.
+- **Under review / submitted:** three abstracts to APHL ID Lab Con 2027 (Atlanta, Mar 15–18, 2027; under review) · book chapter proposal, Taylor & Francis. See [Research by domain](#research-by-domain) and the [Research Conference & Publication Tracker](#research-conference--publication-tracker--20262027) below.
 - **Research:** Nuclear Sentinel AI ([repository](https://github.com/victorialovefranklin/Nuclear-Sentinel/)), SEGDA / GridAI™, BioGrid Sentinel AI
 - **Speaking:** International Training Course on Protecting Computer-Based Systems in Nuclear Security Regimes, Idaho National Laboratory (2026) · Meharry Ph.D. Spotlight, Data Science Nashville (2026) · HBCU National Spotlight panel, Environmental Justice & Health Disparities Symposium (2025) · 106th AMS Annual Meeting (2026)
 - **Mentorship:** MS-CC Undergraduate Summer Research Internship co-mentor and curriculum developer (2025, 2026) · GIS Cyber Threat Mapping & Spatial Analytics workshop (2026)
@@ -56,11 +56,7 @@ Victoria Love Franklin is first author on every paper, abstract, and poster list
 ### 02 · Nuclear Sentinel AI: Nuclear Infrastructure Resilience & Cyber-Physical AI
 
 - **BioGrid Sentinel AI: A Geospatial Digital Twin Framework for Nuclear Infrastructure Resilience and Community Health Preparedness**: Accepted, EAI SmartGIFT 2026 (camera-ready submitted, publication pending)
-- **Evaluating Multimodal AI and Digital-Twin Context for Cyber-Physical State Characterization in Nuclear Operational Technology**: Under review, M&C 2027 (Submission 12911)
 - **International Training Course on Protecting Computer-Based Systems in Nuclear Security Regimes**: Presenter, Idaho National Laboratory (August 5, 2026)
-- **Digital-Twin Residuals for Accident Diagnosis on a Simulated Pressurized-Water Reactor**: Under review, NPIC&HMIT 2027 with ISOFIC 2027 (Instrumentation & Controls: Advanced Surveillance, Online Monitoring, Diagnostics, and Prognostics; Submission 14229)
-- **Does Digital-Twin Evidence Carry Over between Plants? Threshold Calibration and Seed Robustness in Cyber-Physical Anomaly Detection for Nuclear Instrumentation and Control Security**: Under review, NPIC&HMIT 2027 with ISOFIC 2027 (Instrumentation & Controls: Cybersecurity in I&C; Submission 14338)
-- **A Digital Twin Driven Operator Display with Verified Language-Model Explanations for Reactor Accident Diagnosis**: Under review, NPIC&HMIT 2027 with ISOFIC 2027 (Human Factors: Advanced Visualization, Operator Aids, and Support Systems; Submission 14339)
 - **Nuclear Sentinel AI**: Dissertation research ([repository](https://github.com/victorialovefranklin/Nuclear-Sentinel/))
 
 ### 03 · Power & Energy Systems: Energy Justice, Climate Resilience & Environmental Health
@@ -81,7 +77,7 @@ Victoria Love Franklin is first author on every paper, abstract, and poster list
 
 ## First-author papers by venue
 
-14 papers and abstracts · 7 accepted · 7 under review
+10 papers and abstracts · 7 accepted · 3 under review
 
 ### EAI SmartGIFT 2026
 
@@ -99,15 +95,6 @@ _12th International Conference on Environmental Pollution, Treatment and Protect
 - **From Wastewater Signals to Clinical Burden: A Multimodal Machine-Learning and Geospatial Evaluation of Respiratory Virus Surveillance Across United States Jurisdictions**: Accepted · Full paper · final version uploaded · Paper ID 133 · Wastewater
 - **Beyond Point Accuracy: Probabilistic Evaluation of Wastewater-Informed Respiratory Hospitalization Forecasts in Fifteen U.S. States**: Accepted · Full paper · final version uploaded · Paper ID 135 · Wastewater
 - **Two Ceilings on Wastewater-Based Surveillance: Observable Population Worldwide and Operational Lead Time in the United States**: Accepted · Full paper · final version uploaded · Paper ID 136 · Wastewater
-
-### American Nuclear Society (ANS)
-
-_M&C 2027, Columbus, OH, April 18–22, 2027 · NPIC&HMIT 2027 with ISOFIC 2027, Salt Lake City, UT, May 9–13, 2027_
-
-- **Evaluating Multimodal AI and Digital-Twin Context for Cyber-Physical State Characterization in Nuclear Operational Technology**: Under review · M&C 2027 · full paper · Submission 12911 · Nuclear Sentinel AI
-- **Digital-Twin Residuals for Accident Diagnosis on a Simulated Pressurized-Water Reactor**: Under review · NPIC&HMIT 2027 · paper · I&C 1b · Submission 14229 · Nuclear Sentinel AI
-- **Does Digital-Twin Evidence Carry Over between Plants? Threshold Calibration and Seed Robustness in Cyber-Physical Anomaly Detection for Nuclear Instrumentation and Control Security**: Under review · NPIC&HMIT 2027 · paper · I&C 1e · Submission 14338 · Nuclear Sentinel AI
-- **A Digital Twin Driven Operator Display with Verified Language-Model Explanations for Reactor Accident Diagnosis**: Under review · NPIC&HMIT 2027 · paper · Human Factors 2i · Submission 14339 · Nuclear Sentinel AI
 
 ### APHL ID Lab Con 2027
 
@@ -145,11 +132,7 @@ Updated November 13, 2026. Also on the site: [Full CV → Publications](https://
 | 8 | ICEPTP 2027 | From Wastewater Signals to Clinical Burden: A Multimodal Machine-Learning and Geospatial Evaluation of Respiratory Virus Surveillance Across United States Jurisdictions | Wastewater & infectious disease | Full Paper | Accepted — Final Version Uploaded · Paper ID 133 |
 | 9 | ICEPTP 2027 | Beyond Point Accuracy: Probabilistic Evaluation of Wastewater-Informed Respiratory Hospitalization Forecasts in Fifteen U.S. States | Wastewater & infectious disease | Full Paper | Accepted — Final Version Uploaded · Paper ID 135 |
 | 10 | ICEPTP 2027 | Two Ceilings on Wastewater-Based Surveillance: Observable Population Worldwide and Operational Lead Time in the United States | Wastewater & infectious disease | Full Paper | Accepted — Final Version Uploaded · Paper ID 136 |
-| 11 | M&C 2027 | Evaluating Multimodal AI and Digital-Twin Context for Cyber-Physical State Characterization in Nuclear Operational Technology | Nuclear & cyber-physical AI | Full Paper | Under Review — Submission 12911 |
-| 12 | NPIC&HMIT 2027 (with ISOFIC 2027) | Digital-Twin Residuals for Accident Diagnosis on a Simulated Pressurized-Water Reactor | Nuclear & cyber-physical AI | Paper (Abstract Submission) | Under Review — I&C 1b · Submission 14229 |
-| 13 | NPIC&HMIT 2027 (with ISOFIC 2027) | Does Digital-Twin Evidence Carry Over between Plants? Threshold Calibration and Seed Robustness in Cyber-Physical Anomaly Detection for Nuclear Instrumentation and Control Security | Nuclear & cyber-physical AI | Paper (Abstract Submission) | Under Review — I&C 1e · Submission 14338 |
-| 14 | NPIC&HMIT 2027 (with ISOFIC 2027) | A Digital Twin Driven Operator Display with Verified Language-Model Explanations for Reactor Accident Diagnosis | Nuclear & cyber-physical AI | Paper (Abstract Submission) | Under Review — Human Factors 2i · Submission 14339 |
-| 15 | Dr. Clifton K. Meador 4th Annual Poster Session & Lectureship 2026 | SEGDA: Environmental Justice, Power Outage Burden, and Climate Stress Across California Census Tracts and Counties (2018–2023): Implications for Public Health Equity | Energy justice & climate | Virtual Poster | Poster Prize |
+| 11 | Dr. Clifton K. Meador 4th Annual Poster Session & Lectureship 2026 | SEGDA: Environmental Justice, Power Outage Burden, and Climate Stress Across California Census Tracts and Counties (2018–2023): Implications for Public Health Equity | Energy justice & climate | Virtual Poster | Poster Prize |
 
 ### Conference summary
 
@@ -158,10 +141,8 @@ Updated November 13, 2026. Also on the site: [Full CV → Publications](https://
 | EAI SmartGIFT | 2026 | 2 | 2 | 0 | 0 |
 | APHL ID Lab Con | 2027 | 3 | 0 | 3 | 0 |
 | ICEPTP | 2027 | 5 | 5 | 0 | 0 |
-| M&C | 2027 | 1 | 0 | 1 | 0 |
-| NPIC&HMIT | 2027 | 3 | 0 | 3 | 0 |
 | Meador Poster Session | 2026 | 1 | 1 (Poster Prize) | 0 | 0 |
-| **Total** | | **15** | **7** + poster prize | **7** | **0** |
+| **Total** | | **11** | **7** + poster prize | **3** | **0** |
 
 ### Conference websites
 
@@ -170,11 +151,9 @@ Updated November 13, 2026. Also on the site: [Full CV → Publications](https://
 | EAI SmartGIFT 2026 | [Conference website](https://smartgiftconf.eai-conferences.org/2026/) |
 | APHL 2027 ID Lab Con | [Conference website](https://www.aphl.org/IDLabCon) |
 | ICEPTP 2027 (CSEE 2027 Congress) | [Conference website](https://cseecongress.com/) |
-| M&C 2027 (American Nuclear Society) | [Conference portal](https://www.ans.org/meetings/mc2027/) |
-| NPIC&HMIT 2027 with ISOFIC 2027 (American Nuclear Society) | [Conference website](https://www.ans.org/meetings/view-npichmitisofic2027/) |
 | Dr. Clifton K. Meador Poster Session | [Lectureship & poster session page](https://www.meharry-vanderbilt.org/dr-clifton-k-meador-annual-lectureship) |
 
-**Research portfolio summary:** Fifteen conference submission records across six events: seven accepted papers (five at ICEPTP 2027 with final versions uploaded and two at EAI SmartGIFT 2026 with camera-ready versions submitted), seven submissions under review (three APHL ID Lab Con 2027 abstracts, three NPIC&HMIT 2027 paper abstracts, and one M&C 2027 full paper), and one submission awaiting status confirmation. Eight of the fifteen records are in wastewater epidemiology and infectious disease surveillance, and five are in nuclear infrastructure resilience and cyber-physical AI.
+**Research portfolio summary:** Eleven conference submission records across four events: seven accepted papers (five at ICEPTP 2027 with final versions uploaded and two at EAI SmartGIFT 2026 with camera-ready versions submitted), three APHL ID Lab Con 2027 abstracts under review, and a Meador Poster Prize (2026). Eight of the eleven records are in wastewater epidemiology and infectious disease surveillance.
 
 ## Contact
 
