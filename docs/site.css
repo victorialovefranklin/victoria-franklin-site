@@ -312,3 +312,54 @@ table.exp td small{display:block;color:var(--muted);font-size:12.5px}
 .wwm-portrait{width:260px;height:auto;border-radius:50%}
 @media screen and (max-width:760px){.wwm-top{grid-template-columns:1fr;gap:24px}.wwm-portrait{width:180px}}
 @media print{.pub-thumb{display:none}}
+
+/* No hanging words */
+p,li,dd,td,figcaption,.t,.v,.c,.lede{text-wrap:pretty}
+h1,h2,h3,.what b,.pub .t,.rows .t,.card h3{text-wrap:balance}
+
+/* Clean CV: a document, not a deck of cards */
+.cv-main .box{border:0;border-radius:0;background:none;overflow:visible;border-top:1px solid var(--ink)}
+.cv-main .role,.cv-main .pub,.cv-main .rows li{border-bottom:1px solid var(--line)}
+.cv-main .role summary{padding:16px 0;grid-template-columns:150px minmax(0,1fr) auto}
+.cv-main .role summary:hover{background:none}
+.cv-main .role summary:hover .what b{color:var(--wine)}
+.cv-main .role .body{padding:0 0 18px 166px}
+.cv-main .rows li{padding:14px 0;grid-template-columns:150px minmax(0,1fr)}
+.cv-main .pub{padding:16px 0}
+.cv-main .kind{background:none!important;padding:0;font-weight:500;color:var(--muted)!important;font-size:13px}
+.cv-main .st{background:none!important;padding:0;margin:0 14px 2px 0;border-radius:0;font-size:12.5px;font-weight:600}
+.cv-main .st-acc{color:var(--ok)}.cv-main .st-rev{color:var(--rev)}.cv-main .st-pres{color:var(--pres)}.cv-main .st-prize{color:var(--wine)}.cv-main .st-dev{color:var(--muted)}
+.cv-main .st::before{content:"";display:inline-block;width:7px;height:7px;border-radius:50%;background:currentColor;margin-right:6px;vertical-align:1px}
+.cv-main .earlier{background:none;padding:18px 0 0}
+.cv-main .pub-group>h3,.cv-main .sub-h{color:var(--ink)}
+.tools{font-size:13px;color:var(--muted)}
+.plain-groups{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px 48px;border-top:1px solid var(--ink)}
+.plain-group{padding:18px 0;border-bottom:1px solid var(--line)}
+.plain-group h3{font-size:15px;font-weight:600;margin-bottom:8px}
+.plain-group p{font-size:14.5px;color:var(--body)}
+.plain-list{display:flex;flex-direction:column;gap:6px;font-size:14.5px;color:var(--body)}
+.plain-list small{color:var(--muted);font-size:13px}
+.cv-main .pub-thumb{max-width:150px}
+.cv-main .pub-thumb .thumb{border:0;background:var(--soft);padding:6px;border-radius:4px}
+.cv-nav .tab{border-radius:0;padding-left:14px}
+.cv-nav .tab[aria-selected="true"]{background:none;box-shadow:inset 2px 0 0 var(--wine)}
+.filter{border-radius:4px}
+@media screen and (max-width:760px){
+ .cv-main .role summary{grid-template-columns:1fr auto;padding:14px 0}
+ .cv-main .role .body{padding:0 0 16px}
+ .cv-main .rows li{grid-template-columns:1fr;padding:12px 0}
+ .plain-groups{grid-template-columns:1fr}
+ .cv-nav .tab{border-radius:4px}
+}
+@media print{.plain-groups{border-top:0}.cv-main .box{border-top:0}}
+.nw{white-space:nowrap}
+.plain-list small{display:block;margin-top:1px}
+.plain-list{gap:10px}
+@media print{
+ .cv-main .role summary{grid-template-columns:105px minmax(0,1fr);align-items:start;padding:8px 0}
+ .cv-main .role .body{padding:0 0 8px 121px;gap:4px;font-size:9.5pt}
+ .cv-main .rows li{grid-template-columns:105px minmax(0,1fr);padding:6px 0}
+ .cv-main .pub{padding:7px 0}
+ .plain-group{padding:8px 0}
+ .cv-main .panel>.intro{margin-bottom:8px}
+}
