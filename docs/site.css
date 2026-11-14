@@ -96,6 +96,7 @@ a.chip:hover{background:#EED6DE;color:var(--wine-deep)}
 .card-dark h3{font:500 32px/1.1 var(--serif)}
 .card-dark p{color:#E8DFE2;font-size:15px}
 .card-dark a{color:#fff}
+.card .banner{display:block;width:100%;height:auto;margin:6px 0 4px}
 .card-dark .banner{border-radius:12px;background:#fff;padding:0;margin:6px 0;width:100%;height:auto}
 .thumb{position:relative;display:block;width:100%;padding:8px;border:1px solid var(--line);border-radius:12px;overflow:hidden;cursor:zoom-in;background:var(--soft);aspect-ratio:4/3;margin-bottom:6px}
 .thumb img{width:100%;height:100%;object-fit:contain;object-position:center}
