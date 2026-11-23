@@ -1,6 +1,6 @@
-# Victoria Love Franklin, PSM, CPT
+# Victoria Love Franklin
 
-**Doctoral Researcher | Data Scientist | Geospatial Scientist**
+**Computational Scientist | Data Scientist | Geospatial Scientist | Digital Data Solutionist**
 
 Peer-Reviewed Published Scientist & Research Scholar · Ph.D. Student, Data Science (Nuclear Cybersecurity), Meharry Medical College
 
@@ -24,10 +24,10 @@ Victoria L. Franklin is a doctoral researcher and data scientist specializing in
 
 ## Highlights
 
-- **Current and recent roles:** NREIP Fall Engagement Participant, U.S. Naval Research Laboratory (Oct–Dec 2026) · Data Analytics & Technology Fellow and Project Lead, Metro Nashville Register of Deeds (Sep–Nov 2026) · Post-PhD Candidacy Technical Intern, Nuclear Cybersecurity, Idaho National Laboratory (Jul–Sep 2026) · CASPER Scholar & DOE Research Scholar, Savannah River National Laboratory (Jul 2025–Jan 2026)
+- **Current and recent roles:** NREIP Fall Engagement Participant, U.S. Naval Research Laboratory (Oct–Dec 2026) · Data Analytics & Technology Fellow and Project Lead, Metro Nashville Register of Deeds (Sep 2026 – Present) · Post-PhD Candidacy Technical Intern, Nuclear Cybersecurity, Idaho National Laboratory (Jul–Sep 2026) · CASPER Scholar & DOE Research Scholar, Savannah River National Laboratory (Jul 2025–Jan 2026)
 - **5 federal laboratories:** Idaho National Laboratory, Savannah River National Laboratory, Oak Ridge National Laboratory, U.S. Naval Research Laboratory, U.S. Air Force School of Aerospace Medicine
 - **Research Credentials:** Seven Peer-Reviewed Papers Accepted for Presentation and Publication: five at the 12th ICEPTP 2027 (London, UK, CSEE 2027 Congress proceedings; final versions uploaded): Decoding Tennessee Wastewater Surveillance, NWGS Grid, From Wastewater Signals to Clinical Burden, Beyond Point Accuracy, and Two Ceilings on Wastewater-Based Surveillance · one at EAI AICON 2027 (2nd International Conference on Artificial Intelligence & Society, Kuala Lumpur, Malaysia, hybrid, May 4–5, 2027): BioGrid Sentinel AI · one journal article, EAI Endorsed Transactions on Internet of Things: SEGDA
-- **Under review / submitted:** one journal paper submitted to EAI Endorsed Transactions on Internet of Things (County Averages Hide 28.3 Million People, the national follow-up to SEGDA) · three abstracts to APHL ID Lab Con 2027 (Atlanta, Mar 15–18, 2027; under review). See [Research by domain](#research-by-domain) and the [Research Conference & Publication Tracker](#research-conference--publication-tracker--20262027) below.
+- **Under review / submitted:** three abstracts to APHL ID Lab Con 2027 (Atlanta, Mar 15–18, 2027; under review). See [Research by domain](#research-by-domain) and the [Research Conference & Publication Tracker](#research-conference--publication-tracker--20262027) below.
 - **Research:** Nuclear Sentinel AI ([repository](https://github.com/victorialovefranklin/Nuclear-Sentinel/)), SEGDA / GridAI™, BioGrid Sentinel AI
 - **Speaking:** International Training Course on Protecting Computer-Based Systems in Nuclear Security Regimes, Idaho National Laboratory (2026) · Meharry Ph.D. Spotlight, Data Science Nashville (2026) · HBCU National Spotlight panel, Environmental Justice & Health Disparities Symposium (2025) · 106th AMS Annual Meeting (2026)
 - **Mentorship:** MS-CC Undergraduate Summer Research Internship co-mentor and curriculum developer (2025, 2026) · GIS Cyber Threat Mapping & Spatial Analytics workshop (2026)
@@ -62,7 +62,6 @@ Victoria Love Franklin is first author on every paper, abstract, and poster list
 ### 03 · Power & Energy Systems: Energy Justice, Climate Resilience & Environmental Health
 
 - **Socio-Environmental Grid Disruption Analysis (SEGDA): A Multi-Scale Spatial Assessment of Energy Justice and Climate Resilience Across California Census Tracts and Counties, 2018–2023**: Accepted, EAI Endorsed Transactions on Internet of Things
-- **County Averages Hide 28.3 Million People: Screening Rules, Environmental Justice Burden and Power Outage Exposure Across U.S. Census Tracts, 2018–2023**: Submitted, EAI Endorsed Transactions on Internet of Things
 - **SEGDA: Environmental Justice, Power Outage Burden, and Climate Stress Across California Census Tracts and Counties (2018–2023): Implications for Public Health Equity**: Poster Prize, Dr. Clifton K. Meador Student Poster Competition, 4th Annual Dr. Clifton K. Meador Lectureship, Meharry Medical College (Nov 19, 2026)
 - **Toward Climate-Resilient Energy Systems: A Geospatial RAG-Enabled Digital Twin Approach for Equity and Ecosystem Sustainability**: Oral presentation, 106th AMS Annual Meeting (2026)
 - **Meharry Ph.D. Spotlight: The Socio-Environmental Grid Disruption Analysis (SEGDA) Framework**: Invited talk, Data Science Nashville Meetup (March 17, 2026)
@@ -90,7 +89,6 @@ _2nd International Conference on Artificial Intelligence & Society · Kuala Lump
 _Open-access, peer-reviewed journal · indexed in Scopus_
 
 - **Socio-Environmental Grid Disruption Analysis (SEGDA): A Multi-Scale Spatial Assessment of Energy Justice and Climate Resilience Across California Census Tracts and Counties, 2018–2023**: Accepted · Journal article · Power & Energy
-- **County Averages Hide 28.3 Million People: Screening Rules, Environmental Justice Burden and Power Outage Exposure Across U.S. Census Tracts, 2018–2023**: Submitted · Journal article · Power & Energy
 
 ### ICEPTP 2027
 
@@ -162,7 +160,7 @@ Updated November 14, 2026. Also on the site: [Full CV → Publications](https://
 | ICEPTP 2027 (CSEE 2027 Congress) | [Conference website](https://cseecongress.com/) |
 | Dr. Clifton K. Meador Poster Session | [Lectureship & poster session page](https://www.meharry-vanderbilt.org/dr-clifton-k-meador-annual-lectureship) |
 
-**Research portfolio summary:** Twelve submission records across five venues: seven accepted papers (five at ICEPTP 2027 with final versions uploaded, one at EAI AICON 2027 and one in EAI Endorsed Transactions on Internet of Things), one more journal paper submitted to EAI Endorsed Transactions on Internet of Things, three APHL ID Lab Con 2027 abstracts under review, and a Meador Poster Prize (2026). Eight of the twelve records are in wastewater epidemiology and infectious disease surveillance.
+**Research portfolio summary:** Eleven submission records across five venues: seven accepted papers (five at ICEPTP 2027 with final versions uploaded, one at EAI AICON 2027 and one in EAI Endorsed Transactions on Internet of Things), three APHL ID Lab Con 2027 abstracts under review, and a Meador Poster Prize (2026). Eight of the eleven records are in wastewater epidemiology and infectious disease surveillance.
 
 ## Contact
 
