@@ -13,8 +13,8 @@ body.hub-theme{
 .hub-theme :focus-visible{outline-color:var(--purple)}
 /* Headings: Manrope, heavy and tight like the hub site */
 .hub-theme .brand b{font:800 21px/1 var(--serif);letter-spacing:-.04em}
-.hub-theme .hero h1,.hub-theme .page-hero h1{font-family:var(--serif);font-weight:800;letter-spacing:-.055em;line-height:1.05}
-.hub-theme .hero h1 em,.hub-theme .page-hero h1 em{font-style:normal;color:var(--wine)}
+.hub-theme .hero-headline,.hub-theme .page-hero h1{font-family:var(--serif);font-weight:800;letter-spacing:-.055em;line-height:1.05}
+.hub-theme .hero-headline em,.hub-theme .page-hero h1 em{font-style:normal;color:var(--wine)}
 .hub-theme .sec-head h2,.hub-theme .h2,.hub-theme .site-footer h2{font-family:var(--serif);font-weight:800;letter-spacing:-.05em}
 .hub-theme .sec-head h2 em{font-style:normal;color:var(--wine)}
 .hub-theme .card h3,.hub-theme .svc h3,.hub-theme .diff h3{font-family:var(--serif);font-weight:700;letter-spacing:-.02em}

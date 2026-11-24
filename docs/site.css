@@ -57,11 +57,22 @@ a.chip:hover{background:#EED6DE;color:var(--wine-deep)}
 .sec-head p{color:var(--muted);max-width:560px}
 .more{font-weight:600;font-size:15px}
 
+/* CV-style profile header */
+.profile-header .wrap{padding-top:48px}
+.profile-header-inner{display:flex;justify-content:space-between;align-items:flex-end;gap:24px;padding-bottom:18px;border-bottom:3px solid #1e4c78;font-family:Arial,Helvetica,sans-serif}
+.profile-identity h1{font-size:36px;line-height:1.15;letter-spacing:0;color:#1e4c78}
+.profile-title{margin-top:8px;font-size:16px;line-height:1.4;font-weight:700;color:#1d273b}
+.profile-specialties,.profile-contact{font-size:14px;line-height:1.5;color:#56647b}
+.profile-specialties{margin-top:4px}
+.profile-contact{flex-shrink:0;text-align:right}
+.profile-contact a{color:inherit;text-decoration:none}
+.profile-contact a:hover{text-decoration:underline}
+
 /* Hero */
 .hero .wrap{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr);gap:56px;align-items:center;padding-top:56px;padding-bottom:48px}
 .hero-copy{display:flex;flex-direction:column;gap:22px}
-.hero h1{font:500 clamp(40px,5vw,62px)/1.04 var(--serif);letter-spacing:-.02em}
-.hero h1 em{color:var(--wine)}
+.hero-headline{font:500 clamp(40px,5vw,62px)/1.04 var(--serif);letter-spacing:-.02em}
+.hero-headline em{color:var(--wine)}
 .lede{font-size:18px;color:var(--body);max-width:580px}
 .now{border-top:1px solid var(--line);padding-top:18px;display:flex;flex-direction:column;gap:10px}
 .now p{font-size:12px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
@@ -248,6 +259,10 @@ table.exp td small{display:block;color:var(--muted);font-size:12.5px}
 }
 @media screen and (max-width:760px){
   .wrap{padding:0 20px}
+  .profile-header .wrap{padding-top:32px}
+  .profile-header-inner{flex-direction:column;align-items:flex-start;gap:12px}
+  .profile-identity h1{font-size:32px}
+  .profile-contact{text-align:left}
   .hero .wrap{grid-template-columns:1fr;gap:32px;padding-top:32px}
   .portrait{max-width:360px}
   .section{padding:48px 0}
