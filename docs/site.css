@@ -29,12 +29,7 @@ ul{margin:0;padding:0;list-style:none}
 .brand{display:flex;align-items:baseline;gap:8px;text-decoration:none;color:var(--ink)}
 .brand b{font:600 22px/1 var(--serif)}
 .brand small{font-size:12px;letter-spacing:.08em;color:var(--muted)}
-.hub-lock{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--ink);padding-left:16px;border-left:1px solid var(--line);margin-right:auto}
-.hub-lock img{width:22px;height:27px}
-.hub-lock span{display:flex;flex-direction:column;line-height:1.15}
-.hub-lock small{font-size:10px;color:var(--muted);letter-spacing:.08em;text-transform:uppercase}
-.hub-lock strong{font-size:13px;font-weight:600}
-.site-nav{display:flex;align-items:center;gap:4px 22px;font-size:14px;font-weight:500}
+.site-nav{display:flex;align-items:center;gap:4px 22px;margin-left:auto;font-size:14px;font-weight:500}
 .site-nav a{color:var(--ink);text-decoration:none}
 .site-nav a:hover,.site-nav a[aria-current="page"]{color:var(--wine)}
 .site-nav a[aria-current="page"]{font-weight:600}
@@ -57,7 +52,9 @@ a.chip:hover{background:#EED6DE;color:var(--wine-deep)}
 .sec-head p{color:var(--muted);max-width:560px}
 .more{font-weight:600;font-size:15px}
 
-/* CV-style profile header */
+/* Homepage banner and CV-style profile header */
+.visual-hero .wrap{padding-top:32px}
+.visual-hero img{width:100%;height:auto}
 .profile-header .wrap{padding-top:48px}
 .profile-header-inner{display:flex;justify-content:space-between;align-items:flex-end;gap:24px;padding-bottom:18px;border-bottom:3px solid #1e4c78;font-family:Arial,Helvetica,sans-serif}
 .profile-identity h1{font-size:36px;line-height:1.15;letter-spacing:0;color:#1e4c78}
@@ -97,6 +94,9 @@ a.chip:hover{background:#EED6DE;color:var(--wine-deep)}
 .grid{display:grid;gap:18px}
 .g3{grid-template-columns:repeat(3,minmax(0,1fr))}
 .research-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+.research-approach{max-width:900px;margin-bottom:28px;color:var(--body)}
+.research-approach h3{margin-bottom:8px;color:var(--ink);font-size:20px}
+.research-approach p+p{margin-top:12px}
 .card{background:#fff;border:1px solid var(--line);border-radius:var(--r);padding:22px;display:flex;flex-direction:column;gap:8px}
 .card .meta{font-size:12px;font-weight:600;color:var(--wine)}
 .card h3{font-size:17px;font-weight:600;line-height:1.35}
@@ -246,7 +246,6 @@ table.exp td small{display:block;color:var(--muted);font-size:12.5px}
 
 /* Responsive */
 @media screen and (max-width:1080px){
-  .hub-lock{display:none}
   .menu-btn{display:inline-flex;align-items:center;justify-content:center;padding:0 14px}
   .site-nav{display:none;position:absolute;top:72px;left:0;right:0;background:#fff;border-bottom:1px solid var(--line);flex-direction:column;align-items:stretch;padding:16px 32px 22px;gap:4px}
   .site-nav.open{display:flex}

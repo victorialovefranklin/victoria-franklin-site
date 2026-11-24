@@ -2,7 +2,7 @@
 
 **Computational Scientist | Data Scientist | Geospatial Scientist | Digital Data Solutionist**
 
-Peer-Reviewed Published Scientist & Research Scholar · Ph.D. Student, Data Science (Nuclear Cybersecurity), Meharry Medical College
+Peer-Reviewed Published Scientist & Research Scholar · Ph.D. Student, Data Science, Meharry Medical College
 
 Data Science · Government Technology · Applied AI Research · Mentorship
 
@@ -37,7 +37,7 @@ Victoria L. Franklin is a doctoral researcher and data scientist specializing in
 - **Government technology:** Metro Nashville Register of Deeds public data portal and website
 - **Recognition:** 1st Place Poster Prize, Dr. Clifton K. Meador Student Poster Competition, for “Hidden Communities, Unequal Resilience” (SEGDA), presented at the 4th Annual Dr. Clifton K. Meador Lectureship, Meharry Medical College (Nov 19, 2026) · Parade Grand Marshal, Nashville Veterans Day Parade, representing Meharry Medical College (Nov 11, 2026 · Downtown Broadway · [flyer](docs/2026-nashville-veterans-day-parade-flyer.jpg)) · Featured, Wiley’s Inspiring Black Scientists (2026) · Featured, WastewaterSCAN Q&A (2026) · Women’s History Month Honoree, HBCU Environmental Justice Technical Collaborative (2026) · 1st Place Research Award, Meharry (2025) · Governor-appointed, Tennessee Committee for Clinical Perfusionists
 - **Community:** Parade Grand Marshal, Nashville Veterans Day Parade (Nov 11, 2026) · Parade participant, Tennessee State University 2026 Homecoming Parade (“The Blue Never Fades,” Oct 17, 2026, Jefferson Street) with the team of Karen Johnson, Davidson County Register of Deeds ([photos](docs/tsu-homecoming-2026/))
-- **Education:** Ph.D. in Data Science (Nuclear Cybersecurity concentration), Meharry Medical College, expected 2027 · Graduate Certificate, Public Administration & Executive Leadership, TSU (December 4, 2026) · PSM, Applied Geospatial Information Systems, TSU (2018) · B.S., Urban Studies, TSU (2014) · A.A.S., Health Information Technology, Daymar Institute (2005) · Proud TSU alumna, three TSU credentials ([Proud Tiger graphic](docs/tsu-alumni-proud-tiger.jpg))
+- **Education:** Ph.D. in Data Science, Meharry Medical College, expected 2027 · Graduate Certificate, Public Administration & Executive Leadership, TSU (December 4, 2026) · PSM, Applied Geospatial Information Systems, TSU (2018) · B.S., Urban Studies, TSU (2014) · A.A.S., Health Information Technology, Daymar Institute (2005) · Proud TSU alumna, three TSU credentials ([Proud Tiger graphic](docs/tsu-alumni-proud-tiger.jpg))
 
 ## Research by domain
 
